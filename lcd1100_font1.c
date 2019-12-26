@@ -5,7 +5,7 @@
 //  Device(s)...: PIC18F45K50 (May be adapted to any PIC)
 //  Compiler....: CCS
 //  Description.: Font for Nokia LCD Controller 1100
-//  Data........: 17.12.19
+//  Date........: 17.12.19
 //  Version.....: 0.0.1 
 //***************************************************************************
 
